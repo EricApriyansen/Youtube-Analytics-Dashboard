@@ -10,7 +10,7 @@ Mainly created to test if the multiple linear regression model for predictive an
   
 Any violation from one of the rules above may indicate a bias on the model. Further info for assumption violation impacts on the model can be check on [here](https://online.stat.psu.edu/stat462/node/145/)
 
-## Test Structure
+## Assumptions Test Structure
 
 Below is the explanation of assumption test chronology. It will be listed as the following:
   1. Normal Assumption Test - Rejected
@@ -18,9 +18,7 @@ Below is the explanation of assumption test chronology. It will be listed as the
   3. Assumption Test After Outlier 1 and Outlier 2 (No Impression) - Rejected
   4. Assumption Test After Outlier 2 (No Impression) - Accepted
   5. Assumption Test After Outlier 2 + LN Transformation (No Impression) - Rejected
-  6. Assumption Test After 
-
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+  6. Polynomial Model - Rejected
 
 
 
