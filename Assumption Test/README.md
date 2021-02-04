@@ -8,4 +8,6 @@ Mainly created to test if the multiple linear regression model for predictive an
   
 Any violation from one of the rules above may indicates a bias on the model. Further info for assumption violation impacts on the model can be check on [here](https://online.stat.psu.edu/stat462/node/145/)
 
+#### Yeeha Assumption Test Guidance
+
 
