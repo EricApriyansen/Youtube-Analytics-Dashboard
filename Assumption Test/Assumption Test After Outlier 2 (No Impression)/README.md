@@ -9,3 +9,5 @@ Once the test samples were reduced to 383, another regression model was created 
 ### After SPSS Testing
 
 With the log transformation and polynomial fitting still violate the assumption test, the author had finally decided to use SPSS. Surprisingly, the model which presumed to hold a positive skew trend was not found in the test result. Datasets are distributed along the linear path from the scatterplot model. Further tests on the model shown no violation of multicollinearity, independence, and heteroskedasticity. Thus, the author had finally chosen the After Outlier 2 model for predicting the number of viewers.
+
+#### Notes: results and the explanation of assumption test can be seen on the excel files above
