@@ -15,7 +15,7 @@ Any violation from one of the rules above may indicate a bias on the model. Furt
 Below is the explanation of assumption test chronology. It will be listed as the following:
   1. Normal Assumption Test - Rejected
   2. Assumption Test Exclude Impression Predictors (In the future will be stated as No Impression) - Rejected
-  3. Assumption Test After Outlier 1 and Outlier 2 (No Impression) - Rejected
+  3. Assumption Test After Outlier 1 (No Impression) - Rejected
   4. Assumption Test After Outlier 2 (No Impression) - Accepted
   5. Assumption Test After Outlier 2 + LN Transformation (No Impression) - Rejected
   6. Polynomial Model - Rejected
