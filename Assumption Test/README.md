@@ -2,7 +2,7 @@
 
 ## General Information
 
-Mainly created to test if the multiple linear regression model for predictive analytics is good enough to be applied on the future datasets (i.e. evaluate the model). There are four types of assumptions tests:
+Mainly created to test if the multiple linear regression model for predictive analytics is good enough to be applied on the future datasets (i.e. model assessment). There are four types of assumptions tests:
   1. The residuals are <b>Normally Distributed</b>
   2. The residuals are independent of one another <b>(Auto Correlation)</b>
   3. The residuals have equal variances <b>(Heteroskedasticity)</b>
