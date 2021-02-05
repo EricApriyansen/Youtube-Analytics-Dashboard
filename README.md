@@ -17,7 +17,7 @@ The Author of this project is Eric Apriyansen and the owner of datasets is from 
 
 # Instructions
 
-There are two folders specified on this list:
+This repository consist of the two main folder:
 
 #### Dashboard Folder
 
