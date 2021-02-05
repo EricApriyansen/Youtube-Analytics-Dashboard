@@ -5,7 +5,7 @@ This is the repository to store Youtube Analytics File for "V for Vierza" Channe
 
 V For Vierza is a Virtual Youtuber (A.K.A VTuber) from Indonesian region. See more about What is a [VTuber](https://en.wikipedia.org/wiki/Virtual_YouTuber)
 
-She is an uprising VTuber which has debuted back in 2019. Most of her content is either focusing on gaming or entertainment with her viewers. To support the growth of her channel, the author had decided to collect her youtube statistics information. In exchange, the author helps to summarize its information into a simple dashboard. 
+She is an uprising VTuber which has debuted back in 2019. Most of her content is either focusing on gaming or entertainment with her viewers. To support the growth of her channel, the author had decided to collect her youtube statistics information. In exchange, the author helps to summarize its information into a simple dashboard. There are two analysis provided in the dashboard (See the explanation on [here](https://github.com/EricApriyansen/Youtube-Analytics-Dashboard/tree/main/Dashboard))
 #### Notes: The author had asked for full permission regarding the data collection. For the ethical concern, the author had implemented a non - commercial license to protect her ownership of the datasets. 
 
 # License
