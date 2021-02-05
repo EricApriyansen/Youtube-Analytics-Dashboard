@@ -15,5 +15,17 @@ She is an uprising VTuber which has debuted back in 2019. Most of her content is
 Youtube Analytics Dashboard is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/)
 The Author of this project is Eric Apriyansen and the owner of datasets is from V for Vierza youtube channel.
 
+# Instructions
+
+There are two folders specified on this list:
+
+#### Dashboard Folder
+
+Consists of a Youtube Analytics Dashboard file. Further detail can be  checked [here](https://github.com/EricApriyansen/Youtube-Analytics-Dashboard/tree/main/Dashboard)
+
+#### Assumption Test
+
+Contained all of the assumption tests to evaluate the predictive analysis model used in "estimation of viewers amount calculation" in the Dashboard file. Further info can be check on [This Folder](https://github.com/EricApriyansen/Youtube-Analytics-Dashboard/tree/main/Assumption%20Test)
+
   
   
