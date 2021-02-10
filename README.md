@@ -27,9 +27,5 @@ Consists of a Youtube Analytics Dashboard file. Further detail can be  checked [
 
 Contained all of the assumption tests to evaluate the predictive analysis model used in "estimation of viewers amount calculation" in the Dashboard file. Further info can be check on [This Folder](https://github.com/EricApriyansen/Youtube-Analytics-Dashboard/tree/main/Assumption%20Test)
 
-# Update
-
-  1. Redesign the dashboard appearance. Make it easier to be read in 85% zoom views from 70% [10/02/2021]
-
   
   
